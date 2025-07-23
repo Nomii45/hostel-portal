@@ -65,15 +65,6 @@ hostel-portal/
 └── .gitignore
 
 
-Start the server:
-nodemon server.js
-
-3. Setup Frontend
-cd ../frontend
-npm install
-npm run dev
-
-
 Author
 Nouman — @Nomii45
 
