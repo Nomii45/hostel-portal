@@ -23,7 +23,7 @@ Edit or delete listings
 
 
 View owner dashboard with stats
-🛡 For Admin (Coming Soon):
+For Admin (Coming Soon):
 View platform-wide stats
 Verify hostels (adds “Verified” badge)
 Delete reported listings
